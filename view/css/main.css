@@ -1,0 +1,112 @@
+h1 {
+    margin-bottom: 30px;
+}
+.form__error {
+    margin: 10px 0px;
+    display: block;
+    color: red;
+}
+.form__access {
+    margin: 10px 0px;
+    display: block;
+    color: green;
+}
+.options_select {
+    width: auto;
+}
+
+/*ARTICLE__LIST*/
+.article__list .article__date {
+    color: grey;
+    font-size: 0.9rem;
+}
+.article__list h5 {
+    margin: 0;
+}
+.article__list img {
+    height: 200px;
+    object-fit: cover;
+}
+
+/*ARTICLE__PAGE*/
+.article__page {
+    max-width: 600px;
+}
+.article__page p {
+    font-size: 1.3em;
+}
+.article__page .article__img {
+    max-width: 100%;
+}
+
+/*MODAL*/
+.modal__success {
+    margin: 10px 0px;
+    display: block;
+    color: green;
+}
+
+/*USERPAGE*/
+.user-card__role {
+    font-size: 0.8rem;
+    color: gray;
+}
+.user-card__name {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.user-card__photo {
+    padding: 0;
+    margin-right: 1rem;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.user-card__photo img {
+    width: 100%;
+    object-fit: cover;
+}
+
+/*POLICY*/
+.policy__section {
+    margin: 15px 0;
+}
+.policy__section ol {
+    margin: 0;
+}
+
+/*COMMENTS*/
+.comment__author {
+    font-weight: bold;
+}
+.author__avatar {
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+.author__avatar img {
+    width: 100%;
+    object-fit: cover;
+}
+
+/*ADMIN_PANEL*/
+.admin__users .number {
+    width: 75px;
+    height: 75px;
+    margin: 0 auto;
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
